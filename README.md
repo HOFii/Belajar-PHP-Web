@@ -2,7 +2,7 @@
 
 <center>
 
-## 1. POINT UTAMA
+## POINT UTAMA
 
 </center>
 
@@ -317,12 +317,12 @@ Tampilan
 
 ---
 
-## 2. Pertanyaan & Catatan Tambahan
+## Pertanyaan & Catatan Tambahan
 
 - Tidak ada.
 
 ---
 
-## 3. Kesimpulan
+## Kesimpulan
 
 - Vidio ini bertujuan memperkenalkan awal dan kode - kode awal pembuatan web menggunakan PHP.
